@@ -1,0 +1,149 @@
+year,round,event_name,location,country,n_starters,n_classified,n_dnf,n_laps,total_abs_pos_change,mean_abs_pos_change,max_pos_gained,pos_change_std,n_pit_stops,n_compounds_used,avg_air_temp,avg_track_temp,avg_humidity,avg_wind_speed,rain_pct,any_rain,circuit_length_km,circuit_turns,circuit_type,pit_stops_per_driver,high_action
+2018,1,Australian Grand Prix,Melbourne,Australia,20,20,5,58,62.0,3.1,7.0,4.53,22,4,24.1,36.3,30.9,3.7,0.045,True,5.278,14,street,1.1,0
+2018,2,Bahrain Grand Prix,Sakhir,Bahrain,20,20,3,57,98.0,4.9,8.0,6.74,34,4,28.0,32.2,47.4,1.0,0.0,False,5.412,15,permanent,1.7,1
+2018,3,Chinese Grand Prix,Shanghai,China,20,20,1,56,50.0,2.5,6.0,3.55,31,4,19.4,37.0,24.1,1.8,0.018,True,5.451,16,permanent,1.55,0
+2018,4,Azerbaijan Grand Prix,Baku,Azerbaijan,20,20,7,51,126.0,6.3,9.0,7.36,36,4,16.7,25.3,45.7,2.2,0.0,False,6.003,20,street,1.8,1
+2018,5,Spanish Grand Prix,Barcelona,Spain,20,20,6,66,80.0,4.0,8.0,5.33,23,4,16.1,32.3,52.3,2.0,0.79,True,4.675,16,permanent,1.15,0
+2018,6,Monaco Grand Prix,Monte Carlo,Monaco,20,20,3,78,62.0,3.1,11.0,4.79,27,4,26.6,34.6,50.9,1.4,0.124,True,3.337,19,street,1.35,0
+2018,7,Canadian Grand Prix,Montréal,Canada,20,20,3,70,48.0,2.4,8.0,3.39,21,4,20.5,36.9,27.8,2.5,0.0,False,4.361,14,semi-permanent,1.05,0
+2018,8,French Grand Prix,Le Castellet,France,20,20,5,53,60.0,3.0,6.0,3.77,22,4,24.5,42.0,49.0,1.8,0.01,True,5.842,15,permanent,1.1,0
+2018,9,Austrian Grand Prix,Spielberg,Austria,20,20,6,71,112.0,5.6,10.0,7.65,24,4,23.2,45.9,37.1,2.5,0.0,False,4.318,10,permanent,1.2,1
+2018,10,British Grand Prix,Silverstone,Great Britain,20,19,6,52,70.0,3.68,7.0,4.98,29,4,27.4,52.2,38.7,1.5,0.0,False,5.891,18,permanent,1.45,0
+2018,11,German Grand Prix,Hockenheim,Germany,20,20,5,67,90.0,4.5,13.0,6.44,42,6,26.4,40.7,54.8,2.0,0.26,True,4.574,17,permanent,2.1,1
+2018,12,Hungarian Grand Prix,Budapest,Hungary,20,20,3,70,60.0,3.0,8.0,4.26,20,4,33.8,51.1,33.0,1.1,0.0,False,4.381,14,permanent,1.0,0
+2018,13,Belgian Grand Prix,Spa-Francorchamps,Belgium,20,20,5,44,78.0,3.9,15.0,5.45,37,4,17.3,27.9,37.7,2.0,0.0,False,7.004,19,permanent,1.85,0
+2018,14,Italian Grand Prix,Monza,Italy,20,20,4,53,72.0,3.6,7.0,4.88,22,4,22.2,30.8,63.8,2.1,0.232,True,5.793,11,permanent,1.1,0
+2018,15,Singapore Grand Prix,Singapore,Singapore,20,20,1,61,58.0,2.9,6.0,4.52,25,4,29.9,33.1,66.0,2.0,0.0,False,4.94,23,street,1.25,0
+2018,16,Russian Grand Prix,Sochi,Russia,20,20,2,53,58.0,2.9,14.0,4.86,22,4,24.8,29.9,61.3,2.0,0.018,True,5.848,18,street,1.1,0
+2018,17,Japanese Grand Prix,Suzuka,Japan,20,20,3,53,74.0,3.7,11.0,4.92,25,4,28.3,37.2,50.5,1.8,0.0,False,5.807,18,permanent,1.25,0
+2018,18,United States Grand Prix,Austin,United States,20,20,6,56,114.0,5.7,16.0,7.43,27,4,21.9,30.5,37.6,2.1,0.0,False,5.513,20,permanent,1.35,1
+2018,19,Mexican Grand Prix,Mexico City,Mexico,20,20,4,71,82.0,4.1,10.0,6.08,30,3,20.1,34.5,50.7,1.6,0.0,False,4.304,17,permanent,1.5,0
+2018,20,Brazilian Grand Prix,São Paulo,Brazil,20,20,2,71,64.0,3.2,7.0,4.68,27,3,23.8,40.1,75.4,2.2,0.0,False,4.309,15,permanent,1.35,0
+2018,21,Abu Dhabi Grand Prix,Yas Marina,United Arab Emirates,20,20,5,55,88.0,4.4,7.0,5.78,20,3,31.3,33.3,45.4,2.2,0.044,True,5.281,16,permanent,1.0,1
+2019,1,Australian Grand Prix,Melbourne,Australia,20,20,3,58,64.0,3.2,7.0,4.44,23,3,23.5,41.3,70.5,1.2,0.0,False,5.278,14,street,1.15,0
+2019,2,Bahrain Grand Prix,Sakhir,Bahrain,20,20,4,57,82.0,4.1,5.0,5.14,42,3,26.2,28.6,53.4,2.7,0.0,False,5.412,15,permanent,2.1,0
+2019,3,Chinese Grand Prix,Shanghai,China,20,19,3,56,50.0,2.63,4.0,4.07,40,3,19.3,27.3,46.0,3.3,0.0,False,5.451,16,permanent,2.0,0
+2019,4,Azerbaijan Grand Prix,Baku,Azerbaijan,20,17,4,51,46.0,2.71,5.0,4.56,29,2,19.8,39.7,51.4,1.2,0.0,False,6.003,20,street,1.45,0
+2019,5,Spanish Grand Prix,Barcelona,Spain,20,19,2,66,31.0,1.63,4.0,2.85,37,3,20.1,40.7,54.7,1.9,0.0,False,4.675,16,permanent,1.85,0
+2019,6,Monaco Grand Prix,Monte Carlo,Monaco,20,20,1,78,50.0,2.5,4.0,3.28,24,3,22.8,32.7,52.7,0.9,0.626,True,3.337,19,street,1.2,0
+2019,7,Canadian Grand Prix,Montréal,Canada,20,19,2,70,47.0,2.47,8.0,4.05,23,3,29.4,51.1,16.1,1.3,0.0,False,4.361,14,semi-permanent,1.15,0
+2019,8,French Grand Prix,Le Castellet,France,20,20,1,53,48.0,2.4,5.0,3.23,24,3,26.9,54.5,39.1,1.7,0.0,False,5.842,15,permanent,1.2,0
+2019,9,Austrian Grand Prix,Spielberg,Austria,20,19,0,71,52.0,2.74,11.0,4.09,23,3,34.4,50.7,18.0,1.2,0.0,False,4.318,10,permanent,1.15,0
+2019,10,British Grand Prix,Silverstone,Great Britain,20,20,3,52,72.0,3.6,8.0,4.7,31,3,18.9,30.3,62.1,2.0,0.0,False,5.891,18,permanent,1.55,0
+2019,11,German Grand Prix,Hockenheim,Germany,20,20,7,64,144.0,7.2,18.0,8.67,78,4,21.5,26.4,87.8,1.0,0.966,True,4.574,17,permanent,3.9,1
+2019,12,Hungarian Grand Prix,Budapest,Hungary,20,20,1,70,50.0,2.5,6.0,3.71,25,3,25.7,44.1,33.9,1.2,0.0,False,4.381,14,permanent,1.25,0
+2019,13,Belgian Grand Prix,Spa-Francorchamps,Belgium,20,19,4,44,85.0,4.47,12.0,6.47,24,2,17.4,28.1,57.0,2.0,0.0,False,7.004,19,permanent,1.2,1
+2019,14,Italian Grand Prix,Monza,Italy,20,19,3,53,85.0,4.47,11.0,6.2,30,3,21.1,33.0,51.6,1.6,0.0,False,5.793,11,permanent,1.5,1
+2019,15,Singapore Grand Prix,Singapore,Singapore,20,20,3,61,52.0,2.6,6.0,3.34,29,3,30.0,35.8,66.5,1.9,0.0,False,4.94,23,street,1.45,0
+2019,16,Russian Grand Prix,Sochi,Russia,20,19,5,53,79.0,4.16,7.0,5.78,27,3,22.0,34.3,67.4,1.9,0.008,True,5.848,18,street,1.35,0
+2019,17,Japanese Grand Prix,Suzuka,Japan,20,19,3,53,67.0,3.53,9.0,4.66,32,3,21.6,32.2,57.5,5.5,0.0,False,5.807,18,permanent,1.6,0
+2019,18,Mexican Grand Prix,Mexico City,Mexico,20,20,2,71,60.0,3.0,5.0,4.08,29,3,23.2,41.6,46.3,1.3,0.0,False,4.304,17,permanent,1.45,0
+2019,19,United States Grand Prix,Austin,United States,20,19,4,56,52.0,2.74,6.0,5.05,36,3,21.5,29.1,29.2,2.6,0.0,False,5.513,20,permanent,1.8,0
+2019,20,Brazilian Grand Prix,São Paulo,Brazil,20,20,4,71,120.0,6.0,17.0,7.81,45,3,21.0,46.5,60.3,1.3,0.0,False,4.309,15,permanent,2.25,1
+2019,21,Abu Dhabi Grand Prix,Yas Island,Abu Dhabi,20,20,1,55,56.0,2.8,16.0,4.84,27,3,26.0,29.6,64.5,1.3,0.0,False,5.281,16,permanent,1.35,0
+2020,1,Austrian Grand Prix,Spielberg,Austria,20,20,9,68,94.0,4.7,9.0,6.72,42,3,28.7,52.0,33.8,1.9,0.0,False,4.318,10,permanent,2.1,1
+2020,2,Styrian Grand Prix,Spielberg,Austria,20,19,3,71,89.0,4.68,11.0,6.04,24,3,20.8,39.9,34.0,2.2,0.017,True,4.318,10,permanent,1.2,1
+2020,3,Hungarian Grand Prix,Budapest,Hungary,20,18,1,70,64.0,3.56,8.0,4.62,46,4,20.7,27.1,77.2,1.6,0.015,True,4.381,14,permanent,2.3,0
+2020,4,British Grand Prix,Silverstone,Great Britain,20,20,3,52,62.0,3.1,8.0,4.21,22,3,21.3,40.6,44.2,3.1,0.0,False,5.891,18,permanent,1.1,0
+2020,5,70th Anniversary Grand Prix,Silverstone,Great Britain,20,20,1,52,62.0,3.1,6.0,3.91,42,3,25.3,43.2,58.6,2.2,0.0,False,5.891,18,permanent,2.1,0
+2020,6,Spanish Grand Prix,Barcelona,Spain,20,20,1,66,38.0,1.9,4.0,3.09,36,3,29.8,47.6,56.4,1.5,0.0,False,4.675,16,permanent,1.8,0
+2020,7,Belgian Grand Prix,Spa-Francorchamps,Belgium,20,20,3,44,42.0,2.1,4.0,3.67,20,3,18.6,29.8,54.9,1.5,0.0,False,7.004,19,permanent,1.0,0
+2020,8,Italian Grand Prix,Monza,Italy,20,20,4,53,90.0,4.5,9.0,5.48,41,3,28.1,41.2,40.1,1.5,0.0,False,5.793,11,permanent,2.05,1
+2020,9,Tuscan Grand Prix,Mugello,Italy,20,20,8,59,86.0,4.3,7.0,5.71,67,3,30.2,43.1,39.9,2.4,0.0,False,5.245,15,permanent,3.35,1
+2020,10,Russian Grand Prix,Sochi,Russia,20,20,2,53,72.0,3.6,6.0,5.03,24,3,28.8,40.3,51.4,1.4,0.0,False,5.848,18,street,1.2,0
+2020,11,Eifel Grand Prix,Nürburgring,Germany,20,20,5,60,114.0,5.7,12.0,7.43,36,3,9.5,16.4,59.4,1.6,0.02,True,5.148,15,permanent,1.8,1
+2020,12,Portuguese Grand Prix,Portimão,Portugal,20,20,1,66,54.0,2.7,5.0,3.7,26,3,20.5,25.7,67.5,4.0,0.0,False,4.653,15,permanent,1.3,0
+2020,13,Emilia Romagna Grand Prix,Imola,Italy,20,20,5,63,102.0,5.1,10.0,6.92,32,3,18.0,23.3,71.1,1.3,0.0,False,4.909,19,permanent,1.6,1
+2020,14,Turkish Grand Prix,Istanbul,Turkey,20,18,4,58,99.0,5.5,10.0,6.24,41,2,13.1,15.2,80.2,1.1,0.043,True,5.338,14,permanent,2.05,1
+2020,15,Bahrain Grand Prix,Sakhir,Bahrain,20,20,3,57,64.0,3.2,10.0,4.77,57,3,25.1,27.5,67.8,0.8,0.0,False,5.412,15,permanent,2.85,0
+2020,16,Sakhir Grand Prix,Sakhir,Bahrain,20,20,3,87,102.0,5.1,9.0,7.0,39,3,20.9,23.5,58.2,1.9,0.0,False,5.412,15,permanent,1.95,1
+2020,17,Abu Dhabi Grand Prix,Yas Island,Abu Dhabi,20,20,1,55,28.0,1.4,4.0,1.86,23,3,23.1,28.0,55.4,2.5,0.0,False,5.281,16,permanent,1.15,0
+2021,1,Bahrain Grand Prix,Sakhir,Bahrain,20,19,4,56,50.0,2.63,5.0,4.24,43,3,20.5,27.6,54.5,0.9,0.0,False,5.412,15,permanent,2.15,0
+2021,2,Emilia Romagna Grand Prix,Imola,Italy,20,19,4,63,72.0,3.79,8.0,4.98,57,4,10.6,16.8,69.5,0.5,0.41,True,4.909,19,permanent,2.85,0
+2021,3,Portuguese Grand Prix,Portimão,Portugal,20,20,1,66,48.0,2.4,7.0,3.24,60,3,19.4,39.0,39.4,0.8,0.0,False,4.653,15,permanent,3.0,0
+2021,4,Spanish Grand Prix,Barcelona,Spain,20,20,1,66,34.0,1.7,5.0,2.66,37,2,22.2,32.9,57.6,0.5,0.0,False,4.675,16,permanent,1.85,0
+2021,5,Monaco Grand Prix,Monte Carlo,Monaco,20,20,2,78,70.0,3.5,5.0,6.21,20,3,20.8,37.6,61.4,0.3,0.0,False,3.337,19,street,1.0,0
+2021,6,Azerbaijan Grand Prix,Baku,Azerbaijan,20,20,4,51,92.0,4.6,9.0,6.31,60,3,24.2,38.3,55.8,0.3,0.0,False,6.003,20,street,3.0,1
+2021,7,French Grand Prix,Le Castellet,France,20,19,0,53,53.0,2.79,9.0,3.9,22,3,25.3,35.2,58.6,1.2,0.0,False,5.842,15,permanent,1.1,0
+2021,8,Styrian Grand Prix,Spielberg,Austria,20,20,2,71,54.0,2.7,7.0,4.59,26,3,26.7,52.4,33.2,0.4,0.0,False,4.318,10,permanent,1.3,0
+2021,9,Austrian Grand Prix,Spielberg,Austria,20,20,2,71,56.0,2.8,6.0,3.43,28,3,21.0,33.2,49.7,0.3,0.038,True,4.318,10,permanent,1.4,0
+2021,10,British Grand Prix,Silverstone,Great Britain,20,19,2,52,60.0,3.16,6.0,5.76,42,3,29.4,50.9,37.2,0.3,0.0,False,5.891,18,permanent,2.1,0
+2021,11,Hungarian Grand Prix,Budapest,Hungary,20,19,7,70,141.0,7.42,12.0,8.73,54,4,27.2,37.8,68.6,0.6,0.304,True,4.381,14,permanent,2.7,1
+2021,12,Belgian Grand Prix,Spa-Francorchamps,Belgium,20,18,0,3,12.0,0.67,1.0,0.62,20,1,13.0,15.3,96.4,0.5,0.841,True,7.004,19,permanent,1.0,0
+2021,13,Dutch Grand Prix,Zandvoort,Netherlands,20,18,3,72,33.0,1.83,3.0,2.75,32,3,21.5,36.1,54.1,0.4,0.0,False,4.259,14,permanent,1.6,0
+2021,14,Italian Grand Prix,Monza,Italy,20,18,5,53,78.0,4.33,16.0,6.95,23,3,28.9,43.5,33.3,0.3,0.0,False,5.793,11,permanent,1.15,1
+2021,15,Russian Grand Prix,Sochi,Russia,20,20,2,53,86.0,4.3,18.0,6.09,41,4,19.1,21.8,61.9,0.3,0.101,True,5.848,18,street,2.05,1
+2021,16,Turkish Grand Prix,Istanbul,Turkey,20,20,0,58,78.0,3.9,11.0,5.24,20,2,15.8,18.2,93.5,0.5,0.0,False,5.338,14,permanent,1.0,0
+2021,17,United States Grand Prix,Austin,United States,20,20,3,56,48.0,2.4,8.0,4.18,44,3,28.1,37.5,61.2,0.9,0.0,False,5.513,20,permanent,2.2,0
+2021,18,Mexico City Grand Prix,Mexico City,Mexico,20,20,2,71,68.0,3.4,8.0,4.86,25,3,21.2,47.6,31.2,0.4,0.0,False,4.304,17,permanent,1.25,0
+2021,19,São Paulo Grand Prix,São Paulo,Brazil,20,19,2,71,46.0,2.42,9.0,3.73,81,3,23.1,51.6,60.1,0.4,0.0,False,4.309,15,permanent,4.05,0
+2021,20,Qatar Grand Prix,Lusail,Qatar,20,20,2,57,78.0,3.9,7.0,5.23,31,3,26.4,30.6,75.5,0.4,0.02,True,5.38,16,permanent,1.55,0
+2021,21,Saudi Arabian Grand Prix,Jeddah,Saudi Arabia,20,20,5,50,68.0,3.4,7.0,4.68,48,3,28.8,31.7,76.2,0.3,0.0,False,6.174,27,street,2.4,0
+2021,22,Abu Dhabi Grand Prix,Yas Island,Abu Dhabi,20,19,6,58,50.0,2.63,7.0,3.94,32,3,24.5,28.5,59.1,0.4,0.0,False,5.281,16,permanent,1.6,0
+2022,1,Bahrain Grand Prix,Sakhir,Bahrain,20,20,3,57,88.0,4.4,8.0,6.54,59,3,23.6,28.6,29.5,0.3,0.0,False,5.412,15,permanent,2.95,1
+2022,2,Saudi Arabian Grand Prix,Jeddah,Saudi Arabia,20,19,7,50,46.0,2.42,5.0,3.59,21,2,25.4,28.4,59.7,2.4,0.0,False,6.174,27,street,1.05,0
+2022,3,Australian Grand Prix,Melbourne,Australia,20,20,3,58,78.0,3.9,10.0,5.79,22,3,26.7,37.4,43.7,1.8,0.0,False,5.278,14,street,1.1,0
+2022,4,Emilia Romagna Grand Prix,Imola,Italy,20,19,2,63,95.0,5.0,7.0,6.61,26,4,12.9,17.4,83.2,1.5,0.0,False,4.909,19,permanent,1.3,1
+2022,5,Miami Grand Prix,Miami,United States,20,18,5,57,68.0,3.78,12.0,5.79,29,3,30.6,42.8,58.9,2.3,0.056,True,5.412,19,semi-permanent,1.45,0
+2022,6,Spanish Grand Prix,Barcelona,Spain,20,20,2,66,80.0,4.0,11.0,6.07,55,3,36.6,49.0,7.1,3.5,0.0,False,4.675,16,permanent,2.75,0
+2022,7,Monaco Grand Prix,Monaco,Monaco,20,20,3,64,52.0,2.6,6.0,3.4,55,6,22.3,31.0,75.7,1.0,0.437,True,3.337,19,street,2.75,0
+2022,8,Azerbaijan Grand Prix,Baku,Azerbaijan,20,20,5,51,88.0,4.4,6.0,6.42,30,3,25.4,47.1,59.5,1.5,0.0,False,6.003,20,street,1.5,1
+2022,9,Canadian Grand Prix,Montréal,Canada,20,20,3,70,86.0,4.3,14.0,6.18,32,2,20.8,41.3,28.9,3.6,0.0,False,4.361,14,semi-permanent,1.6,1
+2022,10,British Grand Prix,Silverstone,Great Britain,20,20,6,52,86.0,4.3,11.0,5.81,49,3,18.3,30.0,59.7,1.5,0.044,True,5.891,18,permanent,2.45,1
+2022,11,Austrian Grand Prix,Spielberg,Austria,20,19,3,71,65.0,3.42,9.0,5.75,44,3,20.3,30.7,35.1,1.3,0.0,False,4.318,10,permanent,2.2,0
+2022,12,French Grand Prix,Le Castellet,France,20,20,4,53,72.0,3.6,14.0,6.22,28,2,30.2,54.5,47.7,1.9,0.0,False,5.842,15,permanent,1.4,0
+2022,13,Hungarian Grand Prix,Budapest,Hungary,20,19,1,70,74.0,3.89,9.0,5.05,42,3,18.6,26.7,69.3,4.0,0.275,True,4.381,14,permanent,2.1,0
+2022,14,Belgian Grand Prix,Spa-Francorchamps,Belgium,20,18,2,44,96.0,5.33,13.0,6.98,38,3,21.8,36.1,40.5,1.5,0.0,False,7.004,19,permanent,1.9,1
+2022,15,Dutch Grand Prix,Zandvoort,Netherlands,20,20,2,72,54.0,2.7,7.0,4.01,72,3,22.7,33.4,75.4,1.1,0.0,False,4.259,14,permanent,3.6,0
+2022,16,Italian Grand Prix,Monza,Italy,20,20,4,53,114.0,5.7,14.0,7.47,30,3,27.7,43.1,33.1,1.4,0.0,False,5.793,11,permanent,1.5,1
+2022,17,Singapore Grand Prix,Marina Bay,Singapore,20,19,6,59,70.0,3.68,11.0,5.16,23,3,26.2,29.0,87.4,0.9,0.18,True,4.94,23,street,1.15,0
+2022,18,Japanese Grand Prix,Suzuka,Japan,20,20,2,29,58.0,2.9,11.0,5.09,42,2,16.7,19.9,86.2,2.0,0.98,True,5.807,18,permanent,2.1,0
+2022,19,United States Grand Prix,Austin,United States,20,19,3,56,99.0,5.21,9.0,7.46,37,3,29.3,35.5,49.6,5.5,0.0,False,5.513,20,permanent,1.85,1
+2022,20,Mexico City Grand Prix,Mexico City,Mexico,20,20,2,71,52.0,2.6,5.0,3.71,24,3,24.3,41.7,34.4,1.3,0.0,False,4.304,17,permanent,1.2,0
+2022,21,São Paulo Grand Prix,São Paulo,Brazil,20,19,3,71,87.0,4.58,12.0,6.15,44,3,23.0,46.0,76.1,1.4,0.0,False,4.309,15,permanent,2.2,1
+2022,22,Abu Dhabi Grand Prix,Yas Island,Abu Dhabi,20,20,3,58,60.0,3.0,6.0,4.63,34,3,28.6,34.3,61.7,2.6,0.0,False,5.281,16,permanent,1.7,0
+2023,1,Bahrain Grand Prix,Sakhir,Bahrain,20,20,3,57,84.0,4.2,11.0,5.86,52,3,27.4,31.0,21.5,0.7,0.0,False,5.412,15,permanent,2.6,0
+2023,2,Saudi Arabian Grand Prix,Jeddah,Saudi Arabia,20,20,2,50,76.0,3.8,13.0,5.53,25,3,26.1,31.8,57.8,1.8,0.0,False,6.174,27,street,1.25,0
+2023,3,Australian Grand Prix,Melbourne,Australia,20,20,8,58,114.0,5.7,15.0,7.67,65,3,17.4,30.1,54.2,1.1,0.0,False,5.278,14,street,3.25,1
+2023,4,Azerbaijan Grand Prix,Baku,Azerbaijan,20,20,2,51,44.0,2.2,4.0,2.6,24,3,24.9,41.2,49.2,1.1,0.0,False,6.003,20,street,1.2,0
+2023,5,Miami Grand Prix,Miami,United States,20,20,0,57,58.0,2.9,8.0,3.85,20,3,27.1,36.7,59.4,4.0,0.0,False,5.412,19,semi-permanent,1.0,0
+2023,6,Monaco Grand Prix,Monaco,Monaco,20,20,2,78,42.0,2.1,6.0,3.06,38,5,25.1,39.3,45.9,1.0,0.148,True,3.337,19,street,1.9,0
+2023,7,Spanish Grand Prix,Barcelona,Spain,20,20,0,66,72.0,3.6,9.0,5.27,43,3,22.7,33.8,63.1,1.9,0.0,False,4.675,16,permanent,2.15,0
+2023,8,Canadian Grand Prix,Montréal,Canada,20,20,2,70,86.0,4.3,7.0,5.72,34,4,18.5,30.6,63.9,1.9,0.0,False,4.361,14,semi-permanent,1.7,1
+2023,9,Austrian Grand Prix,Spielberg,Austria,20,20,1,71,64.0,3.2,12.0,4.7,63,3,22.4,32.1,52.0,1.1,0.02,True,4.318,10,permanent,3.15,0
+2023,10,British Grand Prix,Silverstone,Great Britain,20,20,3,52,60.0,3.0,9.0,4.3,26,3,21.5,30.9,56.2,3.0,0.0,False,5.891,18,permanent,1.3,0
+2023,11,Hungarian Grand Prix,Budapest,Hungary,20,20,3,70,76.0,3.8,12.0,5.09,39,3,28.8,48.6,32.8,1.4,0.0,False,4.381,14,permanent,1.95,0
+2023,12,Belgian Grand Prix,Spa-Francorchamps,Belgium,20,20,2,44,66.0,3.3,6.0,5.49,38,3,17.9,28.2,61.9,1.6,0.073,True,7.004,19,permanent,1.9,0
+2023,13,Dutch Grand Prix,Zandvoort,Netherlands,20,19,3,72,90.0,4.74,9.0,6.2,102,5,16.8,24.9,70.8,2.8,0.23,True,4.259,14,permanent,5.1,1
+2023,14,Italian Grand Prix,Monza,Italy,20,20,2,51,48.0,2.4,4.0,3.18,26,2,29.3,42.9,42.3,1.1,0.0,False,5.793,11,permanent,1.3,0
+2023,15,Singapore Grand Prix,Marina Bay,Singapore,20,19,5,62,92.0,4.84,10.0,6.19,25,3,29.8,36.4,72.0,1.4,0.0,False,4.94,23,street,1.25,1
+2023,16,Japanese Grand Prix,Suzuka,Japan,20,20,5,53,52.0,2.6,6.0,4.18,48,3,27.3,42.1,42.3,1.8,0.0,False,5.807,18,permanent,2.4,0
+2023,17,Qatar Grand Prix,Lusail,Qatar,20,20,3,57,84.0,4.2,10.0,6.03,55,3,31.5,36.9,73.2,0.9,0.0,False,5.38,16,permanent,2.75,0
+2023,18,United States Grand Prix,Austin,United States,20,20,5,56,108.0,5.4,13.0,7.74,39,3,30.0,40.6,41.9,3.3,0.0,False,5.513,20,permanent,1.95,1
+2023,19,Mexico City Grand Prix,Mexico City,Mexico,20,19,5,71,81.0,4.26,12.0,5.74,42,3,25.5,45.6,23.6,1.5,0.0,False,4.304,17,permanent,2.1,0
+2023,20,São Paulo Grand Prix,São Paulo,Brazil,20,20,6,71,94.0,4.7,8.0,6.24,70,2,20.5,46.8,58.2,1.3,0.005,True,4.309,15,permanent,3.5,1
+2023,21,Las Vegas Grand Prix,Las Vegas,United States,20,20,3,50,112.0,5.6,14.0,7.0,31,3,18.1,18.0,47.4,2.3,0.0,False,6.201,17,street,1.55,1
+2023,22,Abu Dhabi Grand Prix,Yas Island,Abu Dhabi,20,20,1,58,42.0,2.1,5.0,2.9,38,3,27.0,33.5,51.0,1.8,0.0,False,5.281,16,permanent,1.9,0
+2024,1,Bahrain Grand Prix,Sakhir,Bahrain,20,20,0,57,46.0,2.3,6.0,2.83,43,2,18.2,23.7,48.8,0.8,0.0,False,5.412,15,permanent,2.15,0
+2024,2,Saudi Arabian Grand Prix,Jeddah,Saudi Arabia,20,20,2,50,50.0,2.5,5.0,3.43,20,3,25.5,31.6,62.3,1.3,0.0,False,6.174,27,street,1.0,0
+2024,3,Australian Grand Prix,Melbourne,Australia,19,19,3,58,74.0,3.89,7.0,5.92,37,3,20.6,38.4,44.5,1.0,0.0,False,5.278,14,street,1.9473684210526316,0
+2024,4,Japanese Grand Prix,Suzuka,Japan,20,20,3,53,44.0,2.2,5.0,3.13,55,3,21.7,37.5,43.4,2.2,0.0,False,5.807,18,permanent,2.75,0
+2024,5,Chinese Grand Prix,Shanghai,China,20,20,3,56,58.0,2.9,9.0,3.99,41,3,18.6,29.8,66.1,1.7,0.0,False,5.451,16,permanent,2.05,0
+2024,6,Miami Grand Prix,Miami,United States,20,20,1,57,56.0,2.8,6.0,3.6,28,3,28.5,44.7,59.0,3.1,0.0,False,5.412,19,semi-permanent,1.4,0
+2024,7,Emilia Romagna Grand Prix,Imola,Italy,20,20,1,63,42.0,2.1,6.0,2.79,28,3,25.1,42.0,48.4,2.1,0.0,False,4.909,19,permanent,1.4,0
+2024,9,Canadian Grand Prix,Montréal,Canada,20,20,5,70,80.0,4.0,8.0,4.86,45,4,17.8,24.6,73.4,1.2,0.274,True,4.361,14,semi-permanent,2.25,0
+2024,10,Spanish Grand Prix,Barcelona,Spain,20,20,0,66,30.0,1.5,3.0,1.92,42,3,24.1,41.1,63.4,2.1,0.006,True,4.675,16,permanent,2.1,0
+2024,11,Austrian Grand Prix,Spielberg,Austria,20,20,0,71,64.0,3.2,5.0,5.02,46,3,29.4,46.4,35.0,1.7,0.007,True,4.318,10,permanent,2.3,0
+2024,12,British Grand Prix,Silverstone,United Kingdom,20,20,2,52,52.0,2.6,5.0,4.69,46,4,15.8,27.7,67.3,1.3,0.347,True,5.891,18,permanent,2.3,0
+2024,13,Hungarian Grand Prix,Budapest,Hungary,20,20,1,70,50.0,2.5,9.0,3.57,41,3,28.8,44.9,46.9,1.2,0.0,False,4.381,14,permanent,2.05,0
+2024,14,Belgian Grand Prix,Spa-Francorchamps,Belgium,20,20,2,44,56.0,2.8,7.0,4.29,35,3,21.3,42.3,49.6,1.7,0.0,False,7.004,19,permanent,1.75,0
+2024,15,Dutch Grand Prix,Zandvoort,Netherlands,20,20,0,72,50.0,2.5,6.0,3.28,26,3,19.0,30.8,61.0,4.6,0.0,False,4.259,14,permanent,1.3,0
+2024,16,Italian Grand Prix,Monza,Italy,20,20,1,53,42.0,2.1,6.0,2.92,31,3,33.1,49.3,32.3,1.5,0.0,False,5.793,11,permanent,1.55,0
+2024,17,Azerbaijan Grand Prix,Baku,Azerbaijan,20,20,4,51,88.0,4.4,11.0,6.55,24,3,26.7,44.3,38.0,1.6,0.0,False,6.003,20,street,1.2,1
+2024,18,Singapore Grand Prix,Marina Bay,Singapore,20,20,2,62,54.0,2.7,5.0,3.49,25,3,30.8,36.4,74.7,1.0,0.0,False,4.94,23,street,1.25,0
+2024,19,United States Grand Prix,Austin,United States,20,20,1,56,76.0,3.8,14.0,5.16,23,3,28.1,46.6,35.5,1.5,0.0,False,5.513,20,permanent,1.15,0
+2024,20,Mexico City Grand Prix,Mexico City,Mexico,20,19,3,71,61.0,3.21,9.0,4.54,22,3,19.9,35.6,51.1,2.2,0.0,False,4.304,17,permanent,1.1,0
+2024,21,São Paulo Grand Prix,São Paulo,Brazil,20,20,5,69,90.0,4.5,16.0,6.14,36,2,21.7,25.8,85.3,0.7,0.582,True,4.309,15,permanent,1.8,1
+2024,22,Las Vegas Grand Prix,Las Vegas,United States,20,20,2,50,60.0,3.0,8.0,5.13,41,3,17.8,17.7,47.9,2.9,0.0,False,6.201,17,street,2.05,0
+2024,23,Qatar Grand Prix,Lusail,Qatar,20,20,5,57,54.0,2.7,6.0,3.64,61,3,18.9,22.8,57.3,1.7,0.0,False,5.38,16,permanent,3.05,0
+2024,24,Abu Dhabi Grand Prix,Yas Island,United Arab Emirates,20,20,4,58,84.0,4.2,16.0,6.27,30,3,26.8,31.8,51.4,1.9,0.0,False,5.281,16,permanent,1.5,0
