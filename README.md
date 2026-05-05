@@ -19,14 +19,16 @@ Scope: seasons 2018–2024, one row per race (~150–170 races total).
 
 ### 1. Clone the repository
 ### 2. Create a virtual environment and install dependencies
-### 3. Run the notebook
+### 3. Run the notebooks
 
-Run all cells top to bottom. The first run downloads F1 data from the FastF1 servers and caches it locally under `data/raw/fastf1_cache/` and Subsequent runs load from cache and complete in seconds.
+**Data & EDA:** `notebooks/01_data_eda_hypothesis.ipynb` — run all cells top to bottom. The first run downloads F1 data from the FastF1 servers and caches it locally under `data/raw/fastf1_cache/`; later runs load from cache and complete in seconds.
 
-The notebook will:
+That notebook will:
 - Build a race-level dataset and save it to `data/processed/race_level_data.csv`
 - Produce EDA visualisations saved to `reports/figures/`
 - Print hypothesis test results with effect sizes and multiple-testing corrections
+
+**Machine learning:** After `race_level_data.csv` exists, run `notebooks/02_ml_models.ipynb`. It trains leak-free Random Forest models (classification for high-action races and regression for mean absolute position change) using shared code under `src/`.
 
 ## Methods
 
@@ -38,6 +40,8 @@ The notebook will:
 | Street vs Permanent circuit action | Independent-samples t-test |
 | Temperature vs action | Pearson correlation |
 | Pit stops vs action | Pearson correlation |
+
+**ML (post–EDA):** Random Forest classifier (ROC-AUC / stratified CV) and regressor (R², MAE) on circuit, weather, field-size, and season features—with position-change aggregates omitted from inputs so labels are not leaked.
 
 ## Limitations
 
